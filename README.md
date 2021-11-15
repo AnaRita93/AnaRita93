@@ -1,7 +1,7 @@
 
 ### Hi there , I'm Ana Rita 👋
 
-**I'm a Data professional(Analyst/Scientist) with passion for great story telling with visuals, a complete nerd for Statistics and extremely curious about NLP techniques**
+**I'm a Data Analyst/Scientist with passion for great story telling with visuals, a complete nerd for Statistics and extremely curious about NLP techniques**
 
 - 🔭 I’m currently working on a dashboard about Global Sentiment on COVID-19 Vaccination using Twitter data 
 - 🌱 I’m currently learning about NLP Topic Modeling and Multilingual sentiment classification 
