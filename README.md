@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a dashboard about Global Sentiment on COVID-19 Vaccination using Twitter data 
 - 🌱 I’m currently learning about NLP Topic Modeling and Multilingual sentiment classification 
-- 📖 I have a Medium blog where I document my projects and write about other Data Science related topics 
+- 📖 I have a Medium blog where I document my projects
 - 🎯 My current goal: Find a job where I can grow as a data professional, apply my expertise and develop awesome products!
 - 🌻Hobbies: roller skating, yoga, learning German, finding new ways of coding something,  drawing/painting, read books on world history, classic literature and epic fantasy 
 
