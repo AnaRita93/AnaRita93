@@ -3,7 +3,6 @@
 
 **I'm a Jr. Data Scientist with passion for great story telling with visuals, a complete nerd for Statistics and extremely curious about NLP techniques**
 
-- 👩‍🎓 Recently graduated from SPICED Academy Data Science bootcamp in Berlin 
 - 🔭 I’m currently working on a dashboard about Global Sentiment on COVID-19 Vaccination using Twitter data 
 - 🌱 I’m currently learning about NLP Topic Modeling and Multilingual sentiment classification 
 - 📖 I have a Medium blog where I document my projects and write about other Data Science related topics 
