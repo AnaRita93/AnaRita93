@@ -20,7 +20,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaRita93&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaRita93&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaRita93&theme=blue-green))
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
