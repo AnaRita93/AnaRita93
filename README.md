@@ -1,8 +1,6 @@
 
 ### Hi there , I'm Ana Rita 👋
 
-**I'm a Data Analyst/Scientist with passion for great story telling with visuals, a complete nerd for Statistics and extremely curious about NLP techniques**
-
 
 [![LinkedIn_ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-santos) [![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaritasantos)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aroliveirasantos)
