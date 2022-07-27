@@ -3,11 +3,6 @@
 
 **I'm a Data Analyst/Scientist with passion for great story telling with visuals, a complete nerd for Statistics and extremely curious about NLP techniques**
 
-- 🔭 I’m currently working on a dashboard about Global Sentiment on COVID-19 Vaccination using Twitter data 
-- 🌱 I’m currently learning about NLP Topic Modeling and Multilingual sentiment classification 
-- 📖 I have a Medium blog where I document my projects
-- 🎯 My current goal: Find a job where I can grow as a data professional, apply my expertise and develop awesome products!
-- 🌻Hobbies: roller skating, yoga, learning German,finding new ways of solving a coding problem, drawing/painting, read books on world history, classic literature and epic fantasy 
 
 [![LinkedIn_ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-santos) [![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaritasantos)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aroliveirasantos)
