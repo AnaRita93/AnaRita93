@@ -1,7 +1,6 @@
 
 ### Hi there , I'm Ana Rita 👋
 
-
 - Key Skills: Data Visualization, Data Analytics, Data Collection, Statistical Analysis & Econometrics modelation, NLP, Web apps  
 
 
