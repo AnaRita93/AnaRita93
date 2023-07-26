@@ -6,8 +6,8 @@
 - Key Skills: Data Visualization, Data Analytics, Data Collection, NLP, Web apps, Statistical Analysis   
 
 **Live Dashboards** 
-- Skinlytics: http://anaritasantos.pythonanywhere.com/
 - Omni Agoras Tokens - Balance Tracking Dashboard :  http://144.91.121.7:8081/
+- Skinlytics: http://anaritasantos.pythonanywhere.com/
 - GlobalPublicSentimentonCOVID19Vaccines: https://public.tableau.com/app/profile/ana.rita.santos/viz/GlobalPublicSentimentonCOVID19Vaccines/PublicSentimentonCovid-19Vaccination-October2021_1
 
 [![LinkedIn_ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-santos) 
