@@ -3,7 +3,8 @@
 
 - I'm currently working on my Skinlytics web application, that includes different analytics and data science applications for skincare product comparisons & reviews. 
   
-- Key Skills: Data Visualization, Data Analytics, Data Collection, NLP, Web apps, Statistical Analysis   
+- Key Skills: Data Visualization, Data Analytics, Data Collection, NLP, Web apps, Statistical Analysis
+- Main Software: Python, R, SQL, Regex, Tableau, Dash 
 
 **Live Dashboards** 
 - Omni Agoras Tokens - Balance Tracking Dashboard :  http://144.91.121.7:8081/
