@@ -4,9 +4,6 @@
 - Key Skills: Data Visualization, Data Analytics, Data Collection, Statistical Analysis & Econometrics modelation, NLP, Web apps  
 
 
-[![LinkedIn_ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-santos) 
-[![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaritasantos)
-** ** 
 
 **Technology**
 
@@ -25,6 +22,15 @@
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+** Live Dashboards 
+- Skinlytics: http://anaritasantos.pythonanywhere.com/
+- Omni Agoras Tokens - Balance Tracking Dashboard :  http://144.91.121.7:8081/
+- GlobalPublicSentimentonCOVID19Vaccines: https://public.tableau.com/app/profile/ana.rita.santos/viz/GlobalPublicSentimentonCOVID19Vaccines/PublicSentimentonCovid-19Vaccination-October2021_1
+
+
+[![LinkedIn_ Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-santos) 
+[![Medium Badge](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaritasantos)
+** ** 
 
 
 <!--
