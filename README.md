@@ -1,7 +1,5 @@
 
 ### Hi there , I'm Ana Rita 👋
-
-- I'm currently working on my Skinlytics web application, that includes different analytics and data science applications for skincare product comparisons & reviews. 
   
 - Key Skills: Data Visualization, Data Analytics, Data Collection, NLP, Web apps, Statistical Analysis
 - Main Software: Python, R, SQL, Regex, Tableau, Dash 
